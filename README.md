@@ -1,6 +1,9 @@
 # alphago-v0.0
 play with it first
 
+Timeline:
+follow the tutorial of building alphago in 28 days
+6/25: Finished Day1, get to know the rule of go and basic concept of monte carlo tree and game tree
 
 复现AlphaGo
 - Tech stack

@@ -3,7 +3,9 @@ play with it first
 
 Timeline:
 follow the tutorial of building alphago in 28 days
-6/25: Finished Day1, get to know the rule of go and basic concept of monte carlo tree and game tree
+6/25: 
+Finished Day1, get to know the rule of go and basic concept of monte carlo tree and game tree
+Finished Day2, installed mxnet and docker env
 
 复现AlphaGo
 - Tech stack
